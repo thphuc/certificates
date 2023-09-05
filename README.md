@@ -24,4 +24,6 @@
 - Issued date: 29/05/2023
 
 6. Teaching Coding in Grades 5-8 with Scratch Encore
+- URL: https://courses.edx.org/certificates/aadd6d096769472d935c2afdc4f58ded
 - Issued date: 20/06/2023
+- ID: aadd6d096769472d935c2afdc4f58ded
