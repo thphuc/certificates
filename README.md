@@ -27,3 +27,13 @@
 - URL: https://courses.edx.org/certificates/aadd6d096769472d935c2afdc4f58ded
 - Issued date: 20/06/2023
 - ID: aadd6d096769472d935c2afdc4f58ded
+
+7. Introduction to Large Language Models
+- URL: https://coursera.org/verify/F7V9WSW5LXF8
+- Issued date: 25/01/2024
+- ID: F7V9WSW5LXF8
+
+8. Introduction to Artificial Intelligence (AI)
+- URL: https://coursera.org/verify/N23FAU3UL7WJ
+- Issued date: 10/02/2024
+- ID: N23FAU3UL7WJ
