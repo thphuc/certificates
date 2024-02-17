@@ -37,3 +37,23 @@
 - URL: https://coursera.org/verify/N23FAU3UL7WJ
 - Issued date: 10/02/2024
 - ID: N23FAU3UL7WJ
+
+9. Generative AI: Introduction and Applications
+- URL: https://coursera.org/verify/3H7N44W86KFH
+- Issued date: 15/02/2024
+- ID: 3H7N44W86KFH
+
+10. Generative AI Essentials
+- URL: https://www.credly.com/go/pElRYK5U
+- Issued date: 15/02/2024
+- ID: pElRYK5U
+
+11. Generative AI: Prompt Engineering Basics
+- URL: https://coursera.org/verify/39BWUR9KCE2R
+- Issued date: 17/02/2024
+- ID: 39BWUR9KCE2R
+
+12. Generative AI: Prompt Engineering
+- URL: https://www.credly.com/go/sOYFlplA
+- Issued date: 17/02/2024
+- ID: sOYFlplA
