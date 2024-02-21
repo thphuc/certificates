@@ -57,3 +57,13 @@
 - URL: https://www.credly.com/go/sOYFlplA
 - Issued date: 17/02/2024
 - ID: sOYFlplA
+
+13. Building AI Powered Chatbots Without Programming
+- URL: https://coursera.org/verify/VHU8HXE9KE87
+- Issued date: 21/02/2024
+- ID: VHU8HXE9KE87
+
+14. Chatbot Building Essentials
+- URL: https://www.credly.com/go/ordTfjCc
+- Issued date: 21/02/2024
+- ID: ordTfjCc
