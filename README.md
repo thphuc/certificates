@@ -67,3 +67,13 @@
 - URL: https://www.credly.com/go/ordTfjCc
 - Issued date: 21/02/2024
 - ID: ordTfjCc
+
+15. Python for Data Science, AI & Development
+- URL: https://coursera.org/verify/4V5V3CHWKWKQ
+- Issued date: 24/02/2024
+- ID: 4V5V3CHWKWKQ
+
+16. Python for Data Science and AI
+- URL: https://www.credly.com/go/o2o7ww81
+- Issued date: 24/02/2024
+- ID: o2o7ww81
